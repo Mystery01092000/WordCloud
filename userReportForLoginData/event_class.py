@@ -1,5 +1,3 @@
-import this
-
 
 class Event:
     def __init__(self, event_date, event_type, machine_name, user):
